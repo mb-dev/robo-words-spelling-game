@@ -1,0 +1,191 @@
+## oo-ew
+zoo |  | We saw a lion at the zoo.
+moon | 🌙 | The moon is bright tonight.
+book | 📖 | Grandpa reads me a book at bedtime.
+look |  | Look up at the big blue sky.
+new |  | I got new shoes for my birthday.
+good |  | The puppy is being very good today.
+food |  | My dog gobbles up all his food.
+cook |  | Dad likes to cook pancakes on Sunday.
+pool |  | We splash and swim in the pool.
+few |  | I ate a few grapes for snack.
+boot | 👢 | My boot is full of mud.
+foot | 🦶 | Can you hop on one foot?
+cool |  | The ice pop is nice and cool.
+wood | 🪵 | The little cabin is made of wood.
+grew |  | The little plant grew very tall.
+spoon | 🥄 | I eat my soup with a spoon.
+flew |  | The bird flew over the tree.
+chew |  | The puppy likes to chew on a bone.
+tooth | 🦷 | I lost my first tooth today!
+stew | 🍲 | Mom made a warm pot of stew.
+drew |  | I drew a cat in a big hat.
+broom | 🧹 | Sweep the floor with a broom.
+
+## ar-or
+car | 🚗 | We ride in the red car.
+star | ⭐ | I wish on a shiny star.
+corn | 🌽 | We eat corn on the cob.
+farm |  | Cows and pigs live on the farm.
+fork | 🍴 | I eat my noodles with a fork.
+park |  | We play on the swings at the park.
+dark |  | The sky gets dark at night.
+barn |  | The cow sleeps in the red barn.
+horse | 🐴 | The horse runs fast across the field.
+yard |  | We play tag in the back yard.
+card |  | I made a birthday card for Grandma.
+shark | 🦈 | The shark swims in the deep sea.
+short |  | My little brother is short and silly.
+storm | ⛈️ | The storm made a loud boom.
+born |  | The baby chicks were born today.
+sport |  | Soccer is my favorite sport.
+smart |  | The smart dog can open the door.
+sharp |  | The cactus is sharp, so do not touch!
+north |  | Some birds fly north in the spring.
+porch |  | We sit on the porch and eat ice pops.
+torch |  | The torch lit up the dark cave.
+thorn |  | The rose has a pointy thorn.
+
+## er-ir-ur
+her |  | I gave her a big hug.
+bird | 🐦 | A little bird sang in the tree.
+girl | 👧 | The girl jumped over the puddle.
+turn |  | It is your turn to roll the dice.
+dirt |  | The pig rolls in the dirt.
+hurt |  | I hurt my knee, but I feel better now.
+fern |  | A green fern grows in the forest.
+shirt | 👕 | My new shirt has a dinosaur on it.
+first |  | I was first in line for lunch.
+burn |  | The sun can burn your skin, so wear sunscreen.
+herd |  | A herd of cows walked down the hill.
+curl |  | The cat likes to curl up in a ball.
+surf |  | We watched people surf on big waves.
+skirt |  | My skirt spins when I dance.
+nurse |  | The nurse gave me a sticker.
+germ | 🦠 | Wash your hands to wash away every germ.
+chirp |  | The baby birds chirp for their food.
+perch |  | The parrot sits on a perch.
+twirl |  | Watch me twirl around and around.
+turtle | 🐢 | The turtle hides in its shell.
+verb |  | Jump is a verb, an action word.
+clerk |  | The clerk put our apples in a bag.
+
+## ou-ow-oi-oy
+out |  | Let the dog go out to play.
+cow | 🐄 | The cow says moo.
+boy | 👦 | The boy kicked the ball high.
+toy | 🧸 | My favorite toy is a soft bear.
+down |  | Slide down the big slide!
+house | 🏠 | Our house has a red door.
+owl | 🦉 | The owl hoots at night.
+mouth | 👄 | Open your mouth and say ah.
+cloud | ☁️ | That cloud looks like a bunny.
+brown |  | The bear has soft brown fur.
+coin | 🪙 | I put a coin in my piggy bank.
+town |  | Our town has a big library.
+round |  | The ball is round and bouncy.
+joy |  | The puppy jumped with joy.
+shout |  | We shout hooray when we win.
+crown | 👑 | The king wears a gold crown.
+boil |  | Mom will boil water for the pasta.
+soil |  | Plant the seed in the soil.
+point |  | Point to the biggest dog.
+join |  | Come join our game of tag!
+noise |  | The drum makes a loud noise.
+enjoy |  | I enjoy painting with my sister.
+
+## soft-c-g
+ice | 🧊 | Put some ice in my cold drink.
+face |  | Grandpa made a funny face.
+catch |  | Can you catch the ball?
+mice | 🐭 | Three little mice ran under the bed.
+page |  | Turn the page to see what happens.
+cage |  | The bird sings in its cage.
+race |  | Let us race to the big tree!
+city | 🏙️ | The city has tall buildings.
+itch |  | My bug bite has an itch.
+edge |  | Do not stand at the edge of the pool.
+fetch |  | My dog loves to fetch sticks.
+gem | 💎 | The queen found a shiny gem.
+patch |  | My jeans have a patch on the knee.
+dance | 💃 | We dance to our favorite song.
+large |  | An elephant is very large.
+badge |  | The firefighter wears a shiny badge.
+fudge |  | Grandma made chocolate fudge for us.
+stage |  | The kids sang on the stage.
+hedge |  | The bunny hid in the hedge.
+bridge | 🌉 | We walked across the bridge.
+giant |  | The friendly giant waved hello.
+kitchen |  | We bake cookies in the kitchen.
+
+## silent
+know |  | I know all my letters now.
+knee |  | I bent my knee to sit down.
+when |  | When can we go to the park?
+lamb |  | The baby lamb says baa.
+white |  | Snow is soft and white.
+write |  | I can write my name with a pencil.
+wrap |  | Help me wrap the birthday gift.
+knock |  | Knock on the door, please.
+whale | 🐳 | The whale splashed with its big tail.
+comb |  | I comb my hair every morning.
+thumb | 👍 | Wiggle your thumb up and down.
+wheel | 🛞 | My bike has a wobbly wheel.
+knot | 🪢 | Tie a knot in your shoelace.
+wrong |  | Oops, my shoe is on the wrong foot.
+climb | 🧗 | We climb up the jungle gym.
+knit |  | Grandma likes to knit warm hats.
+wrist |  | My watch goes on my wrist.
+crumb |  | A tiny crumb fell on the floor.
+kneel |  | Kneel down to pet the kitten.
+wrote |  | I wrote a letter to my friend.
+whisper |  | Whisper a secret in my ear.
+wren |  | A wren is a tiny brown bird.
+
+## two-syll
+apple | 🍎 | I ate a red apple for snack.
+rabbit | 🐰 | The rabbit hops in the grass.
+kitten | 🐱 | The kitten plays with yarn.
+little |  | A little ant carried a crumb.
+sunset | 🌅 | The sunset is pink and orange.
+picnic |  | We had a picnic in the park.
+table |  | Please set the table for dinner.
+muffin |  | I had a blueberry muffin for breakfast.
+button |  | Press the button to ring the bell.
+basket | 🧺 | Put the eggs in the basket.
+bottle |  | The baby drinks from a bottle.
+puddle |  | I jumped in a big puddle!
+mitten |  | I lost my left mitten in the snow.
+candle | 🕯️ | Blow out the candle on your cake.
+giggle |  | Tickles make me giggle.
+napkin |  | Wipe your mouth with a napkin.
+puppet |  | My sock puppet can talk.
+insect |  | An ant is a tiny insect.
+magnet | 🧲 | The magnet sticks to the fridge.
+pumpkin | 🎃 | We picked a big orange pumpkin.
+jungle |  | Monkeys swing in the jungle.
+tennis | 🎾 | We hit the ball back and forth in tennis.
+
+## endings
+ducks | 🦆 | Two ducks swim in the pond.
+boxes | 📦 | We packed our toys in boxes.
+jumped |  | The frog jumped into the pond.
+played |  | We played tag at recess.
+fishing | 🎣 | Grandpa took me fishing at the lake.
+eating |  | The bunny is eating a carrot.
+dishes |  | I help wash the dishes after dinner.
+helped |  | I helped Mom carry the bags.
+singing | 🎤 | The kids are singing a happy song.
+foxes | 🦊 | The baby foxes rolled in the snow.
+kicked |  | She kicked the ball into the net.
+rained | 🌧️ | It rained all day long.
+sleeping | 😴 | Shh, the baby is sleeping.
+wishes |  | I made three wishes on a star.
+cooked |  | Dad cooked eggs for breakfast.
+resting |  | The tired puppy is resting on the rug.
+wanted |  | I wanted one more cookie.
+brushes |  | The artist has many paint brushes.
+buzzing |  | A bee is buzzing near the flowers.
+landed |  | The plane landed safely at the airport.
+lunches |  | We packed our lunches for the trip.
+drinking |  | The kitten is drinking milk.

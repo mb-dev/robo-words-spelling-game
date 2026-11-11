@@ -1,0 +1,191 @@
+## cvc-aio
+cat | 🐱 | The cat sat on my lap.
+dog | 🐶 | My dog loves to play fetch.
+pig | 🐷 | The pink pig rolls in mud.
+hat | 🎩 | I wear a big hat.
+bat | 🦇 | A little bat flies at night.
+map | 🗺️ | We look at the map together.
+van | 🚐 | We all ride in the van.
+pan | 🍳 | Dad cooks eggs in a pan.
+cap | 🧢 | I put on my red cap.
+pot | 🍲 | Soup bubbles in the pot.
+lip | 👄 | I got jam on my lip.
+pin | 📌 | Use a pin to hold the paper.
+kid | 🧒 | That kid can run so fast.
+log | 🪵 | A frog sits on a log.
+fog | 🌫️ | The fog is thick and gray.
+jog | 🏃 | We jog around the park.
+ram | 🐏 | The ram has curly horns.
+mop |  | Grandma cleans the floor with a mop.
+hop |  | Bunnies like to hop and play.
+wig |  | The clown wore a funny wig.
+bib |  | The baby wears a bib to eat.
+dig |  | Let's dig in the sand.
+
+## cvc-eu
+sun | ☀️ | The sun is warm today.
+bed | 🛏️ | It is time for bed.
+bug | 🐛 | A tiny bug is on the leaf.
+cup | ☕ | I drink from a blue cup.
+hen | 🐔 | The hen laid an egg.
+bus | 🚌 | We ride the bus to school.
+pen | 🖊️ | I write my name with a pen.
+hug | 🤗 | Give me a big hug.
+net | 🥅 | The ball went in the net.
+nut | 🥜 | The squirrel found a nut.
+jet | 🛩️ | A jet zooms across the sky.
+tub | 🛁 | The duck floats in the tub.
+web | 🕸️ | A spider spins a web.
+pup | 🐕 | The pup wags its tail.
+ten | 🔟 | I can count to ten.
+leg | 🦵 | I stand on one leg.
+red | 🟥 | Apples can be red or green.
+wet | 💦 | The rain made me wet.
+gum |  | Do not swallow your gum.
+mud |  | The pig plays in the mud.
+rug |  | The cat naps on the rug.
+pet |  | A turtle is a fun pet.
+
+## digraphs
+fish | 🐟 | A fish swims in the pond.
+ship | 🚢 | The big ship sails on the sea.
+shop | 🛍️ | We shop for new shoes.
+dish | 🍽️ | Put the food on a dish.
+wish | 🌠 | Close your eyes and make a wish.
+bath | 🛁 | I splash in the bath.
+cash | 💵 | I paid with cash at the store.
+math | 🧮 | I like to do math.
+chat | 💬 | Let's sit and chat for a bit.
+hush | 🤫 | Hush, the baby is sleeping.
+rich | 💰 | The king was very rich.
+chin |  | Milk dripped down my chin.
+chop |  | Help me chop the carrots.
+chip |  | My cup has a chip in it.
+thin |  | The ice is very thin.
+path |  | Follow the path to the lake.
+with |  | Come and play with me.
+then |  | First we eat, then we play.
+this |  | This is my favorite book.
+shed |  | The bikes are in the shed.
+shut |  | Please shut the door.
+moth |  | A moth flew to the light.
+
+## floss-ck
+duck | 🦆 | The duck says quack.
+sock | 🧦 | I lost one sock.
+bell | 🔔 | Ring the bell for lunch.
+kiss | 😘 | Mom gave me a kiss.
+lock | 🔒 | Turn the key in the lock.
+rock | 🪨 | I found a smooth rock.
+hill | ⛰️ | We rolled down the hill.
+buzz | 🐝 | The bees buzz in the garden.
+luck | 🍀 | Good luck on your race.
+sick | 🤒 | I stayed home when I was sick.
+puff | 💨 | Blow a puff of air.
+lick | 👅 | The dog likes to lick my hand.
+tuck |  | Dad will tuck me into bed.
+hiss | 🐍 | The snake can hiss.
+jazz | 🎷 | We danced to jazz music.
+fizz | 🫧 | The soda has lots of fizz.
+back |  | Come back home soon.
+neck |  | A giraffe has a long neck.
+kick |  | Kick the ball to me.
+mess |  | My room is a big mess.
+well |  | You did that very well.
+fill |  | Fill the cup with water.
+
+## blends-start
+frog | 🐸 | The frog jumps into the pond.
+flag | 🚩 | Wave the flag up high.
+crab | 🦀 | A crab walks on the sand.
+drum | 🥁 | Bang the drum loud.
+stop | 🛑 | Stop at the red light.
+clap | 👏 | Clap your hands with me.
+swim | 🏊 | I love to swim in the pool.
+sled | 🛷 | We ride the sled down the snow.
+plug | 🔌 | Put the plug in the wall.
+grin | 😁 | She had a big grin.
+drip | 💧 | Water will drip from the tap.
+trip | 🧳 | We packed for a fun trip.
+glad | 😊 | I am glad you came.
+spin |  | Watch the top spin around.
+snap |  | Snap your fingers to the beat.
+flip |  | Can you flip like a fish?
+skip |  | Let's skip down the street.
+step |  | Watch your step on the stairs.
+spot |  | The dog has a black spot.
+plum |  | A plum is sweet and juicy.
+grab |  | Grab your coat, it is cold.
+twin |  | My friend has a twin sister.
+
+## blends-end
+hand | ✋ | Hold my hand when we cross.
+milk | 🥛 | I drink milk at lunch.
+nest | 🪺 | The bird sits on its nest.
+tent | ⛺ | We sleep in a tent.
+gift | 🎁 | I made a gift for Mom.
+camp | 🏕️ | We camp by the lake.
+mask | 🎭 | He wore a silly mask.
+vest | 🦺 | I zip up my warm vest.
+list | 📝 | Mom made a shopping list.
+golf | ⛳ | Grandpa likes to play golf.
+mint | 🌿 | This gum tastes like mint.
+melt | 🫠 | The ice cream will melt.
+best | 🥇 | You are my best friend.
+lamp |  | Turn on the lamp to read.
+jump |  | I can jump so high.
+belt |  | Dad put on his belt.
+desk |  | I sit at my desk to draw.
+pond |  | Ducks swim in the pond.
+dust |  | There is dust under the bed.
+raft |  | We floated on a raft.
+soft |  | My kitten is so soft.
+help |  | Can you help me, please?
+
+## blends-5
+truck | 🚚 | The big truck honks its horn.
+clock | ⏰ | The clock says it is noon.
+plant | 🪴 | I water my plant each day.
+lunch | 🍱 | It is time for lunch.
+brush | 🖌️ | Dip the brush in the paint.
+dress | 👗 | She wore a pretty dress.
+snack | 🍿 | Can I have a snack?
+chimp | 🐒 | The chimp swings from the tree.
+crash | 💥 | The blocks fell with a crash.
+flash | 📸 | The camera made a bright flash.
+smell | 👃 | I smell cookies baking.
+black | ⬛ | The cat is black and white.
+grass | 🌱 | We sat on the green grass.
+stamp |  | Put a stamp on the letter.
+stick |  | The dog fetched the stick.
+cliff |  | A bird sat on the cliff.
+bench |  | We sat on a park bench.
+shelf |  | Put the book on the shelf.
+frost |  | There is frost on the window.
+crisp |  | The apple is crisp and sweet.
+fresh |  | Mom baked fresh bread.
+crust |  | I ate the pizza crust.
+
+## ng-nk
+ring | 💍 | She has a shiny ring.
+king | 🤴 | The king wears a crown.
+wing | 🪽 | The bird flaps its wing.
+sing | 🎤 | Let's sing a happy song.
+song | 🎵 | I like this song a lot.
+pink | 🩷 | My shoes are pink.
+sink | 🚰 | Wash your hands at the sink.
+bank | 🏦 | I keep coins in the bank.
+wink | 😉 | Can you wink at me?
+drink | 🥤 | I want a cold drink.
+think | 🤔 | Let me think about it.
+thank | 🙏 | I thank you for the gift.
+skunk | 🦨 | The skunk has a white stripe.
+long |  | The snake is very long.
+hang |  | Hang your coat on the hook.
+junk |  | The yard is full of junk.
+honk |  | The geese honk as they fly.
+bunk |  | I sleep on the top bunk.
+swing |  | Push me on the swing.
+bring |  | Please bring your book.
+trunk |  | An elephant has a long trunk.
+blink |  | Do not blink or you will miss it.

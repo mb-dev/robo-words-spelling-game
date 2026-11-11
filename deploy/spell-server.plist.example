@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  macOS launchd service template: keeps Robo Words running on port 8000 and restarts it if it stops.
+  1. Copy this file to ~/Library/LaunchAgents/com.example.robo-words.plist
+  2. Replace every /path/to/... with real paths (run `which node` for the node path; use the folder you cloned the game into).
+  3. Build once (npm run build), create the log folder (mkdir -p data), then:
+       launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.example.robo-words.plist
+     Stop it with:
+       launchctl bootout gui/$(id -u)/com.example.robo-words
+-->
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>com.example.robo-words</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/path/to/node</string>
+		<string>/path/to/robo-words-spelling-game/server.mjs</string>
+		<string>--port</string>
+		<string>8000</string>
+	</array>
+	<key>WorkingDirectory</key>
+	<string>/path/to/robo-words-spelling-game</string>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>KeepAlive</key>
+	<true/>
+	<key>ThrottleInterval</key>
+	<integer>5</integer>
+	<key>StandardOutPath</key>
+	<string>/path/to/robo-words-spelling-game/data/server.stdout.log</string>
+	<key>StandardErrorPath</key>
+	<string>/path/to/robo-words-spelling-game/data/server.stderr.log</string>
+</dict>
+</plist>

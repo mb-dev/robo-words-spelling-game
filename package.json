@@ -1,0 +1,33 @@
+{
+  "name": "robo-words-spelling-game",
+  "private": true,
+  "license": "MIT",
+  "description": "Robo Words: a spelling game for children, with an optional robot and recorded voice.",
+  "type": "module",
+  "scripts": {
+    "build": "tsc && vite build",
+    "start": "node server.mjs --port 8000",
+    "test": "tsx --test tests/*.test.ts",
+    "typecheck": "tsc",
+    "events": "node tools/events.mjs",
+    "audio": "tsx tools/manifest.ts && ~/.cache/kokoro-tts/.venv/bin/python tools/make_audio.py",
+    "lint": "biome check .",
+    "profiles": "tsx tools/profiles.ts"
+  },
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.6.6",
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.7"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}

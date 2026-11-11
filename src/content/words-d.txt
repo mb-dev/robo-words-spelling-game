@@ -1,0 +1,193 @@
+## doubling
+hopping | 🐇 | The bunny was hopping across the grass.
+sitting | 🪑 | My cat is sitting on my homework again.
+running | 🏃 | We were running all the way to the park.
+funny |  | Grandpa told a funny joke at dinner.
+sunny | ☀️ | It is a sunny day for a picnic.
+bigger |  | My sunflower is bigger than me.
+stopped | 🛑 | The bus stopped right in front of our house.
+clapped | 👏 | Everyone clapped loudly after the puppet show.
+swimming | 🏊 | We went swimming in the lake all afternoon.
+shopping | 🛒 | Mom and I went shopping for new shoes.
+hottest | 🔥 | Today is the hottest day of the whole summer.
+muddy |  | My boots got muddy in the garden.
+digging | 🕳️ | The puppy was digging a hole for his bone.
+dropped |  | I dropped my ice cream on the sidewalk.
+hugged | 🤗 | I hugged my teddy bear before bed.
+winner | 🏆 | The winner of the race got a shiny ribbon.
+grabbed |  | The baby grabbed my nose and giggled.
+planned |  | We planned a surprise party for Dad.
+slipped |  | I slipped on a banana peel, just like a cartoon.
+chatting |  | The girls were chatting about their favorite books.
+thinner |  | My pencil is thinner than my crayon.
+wettest |  | After the storm, our tent was the wettest one.
+
+## drop-e
+making |  | We are making a big fort out of blankets.
+baking | 🧁 | Grandma is baking cupcakes for my birthday.
+riding | 🚲 | I love riding my bike down the hill.
+hiding | 🙈 | The kitten is hiding under the bed.
+smiled | 😊 | The baby smiled when she saw the puppy.
+liked |  | I liked the story about the brave little mouse.
+waved | 👋 | I waved goodbye to my friend at the bus stop.
+taking |  | We are taking a trip to the beach.
+coming |  | My cousins are coming over for dinner tonight.
+giving | 🎁 | I am giving my teacher a handmade card.
+dancing | 💃 | We were dancing in the kitchen to silly songs.
+skating | ⛸️ | We went skating on the frozen pond.
+shiny | ✨ | I found a shiny penny on the ground.
+later |  | We can play outside later, after lunch.
+hoping |  | I am hoping it will snow tomorrow.
+writing | ✍️ | I am writing a story about a dragon.
+shining |  | The sun is shining brightly today.
+joked |  | Dad joked that the dog ate my homework.
+safer |  | It is safer to cross the street with a grownup.
+nicest |  | My neighbor is the nicest lady on our street.
+cuter |  | The puppy is even cuter than the kitten.
+bravest | 🦁 | The little lion was the bravest of them all.
+
+## y-to-i
+cried | 😢 | The baby cried until she got her bottle.
+tried |  | I tried a new food and I liked it.
+dried |  | Mom dried my hair with a fluffy towel.
+babies | 👶 | The babies giggled at the bubbles.
+puppies | 🐶 | Five little puppies chased the ball together.
+flies | 🪰 | Our frog catches flies with its long tongue.
+berries | 🫐 | We picked berries and ate them on the porch.
+stories | 📚 | Dad reads me two stories every night.
+parties | 🎉 | I love birthday parties with cake and balloons.
+cities | 🏙️ | Big cities have tall buildings and busy streets.
+pennies | 🪙 | I saved ten pennies in my piggy bank.
+happier |  | My dog is happier when we play fetch.
+funnier |  | This joke is even funnier than the last one.
+easier |  | Riding a bike gets easier when you practice.
+happiest |  | My birthday is the happiest day of the year.
+silliest |  | That was the silliest hat I have ever seen.
+carried |  | Dad carried me home on his shoulders.
+hurried |  | We hurried to catch the school bus.
+worried |  | I was worried about my lost kitten.
+happily |  | The puppy wagged its tail happily.
+easily |  | My big sister can easily reach the top shelf.
+happiness |  | Hugs from Grandma fill me with happiness.
+
+## prefixes
+unhappy | 😞 | The puppy was unhappy when it started raining.
+unlock | 🔓 | Please unlock the door so I can come in.
+untie |  | Can you untie the knot in my shoelace?
+unpack |  | We need to unpack our bags after the trip.
+unfair |  | It is unfair if only one kid gets a turn.
+unkind |  | Saying mean things is unkind.
+unsafe |  | Climbing on the roof is unsafe.
+redo |  | I had to redo my drawing after I spilled juice.
+retell |  | Can you retell the story in your own words?
+rebuild |  | We had to rebuild our sandcastle after the wave.
+repaint |  | Dad will repaint my room a bright green.
+reopen |  | The ice cream shop will reopen in the spring.
+remake |  | Let us remake the bed with clean sheets.
+dislike |  | I dislike soggy cereal in the morning.
+disagree |  | My brother and I disagree about the best color.
+disappear |  | The magician made the coin disappear.
+disobey |  | Our puppy likes to disobey and jump on the couch.
+mistake |  | It is okay to make a mistake when you learn.
+misplace |  | I always misplace my left mitten.
+misspell |  | Try not to misspell your own name!
+preheat |  | We preheat the oven before baking cookies.
+preschool |  | My little brother goes to preschool every morning.
+
+## suffixes
+helpful |  | Thank you for being so helpful today.
+slowly | 🐢 | The turtle walked slowly to the pond.
+kindness |  | Sharing your snack is an act of kindness.
+careful |  | Be careful when you carry the eggs.
+quickly |  | The bunny hopped quickly into its hole.
+darkness | 🌑 | The stars twinkle in the darkness.
+playful |  | Our kitten is very playful in the morning.
+loudly | 📢 | The rooster crowed loudly at sunrise.
+sadness |  | I felt sadness when my best friend moved away.
+thankful |  | I am thankful for my family and friends.
+friendly |  | The friendly dog wagged its tail at everyone.
+softness |  | I love the softness of my new blanket.
+endless |  | The beach looked endless and sparkly.
+hopeful |  | I am hopeful that we will see a rainbow.
+bravely |  | The knight bravely crossed the wobbly bridge.
+fearless |  | My sister is fearless on the tall slide.
+careless |  | It was careless to leave my bike in the rain.
+harmless |  | This little spider is harmless and shy.
+movement |  | I saw a tiny movement in the bushes.
+payment |  | I gave the shopkeeper my payment for the apple.
+enjoyment |  | Reading books gives me so much enjoyment.
+excitement |  | The kids squealed with excitement at the circus.
+
+## homophones
+see | 👀 | I can see the moon from my window.
+sea | 🌊 | Fish and whales swim in the deep blue sea.
+two |  | I have two hands and ten fingers.
+too |  | I want to come to the zoo too!
+no |  | No, thank you, I am already full.
+know |  | I know all the letters of the alphabet.
+one |  | I ate just one cookie after lunch.
+won |  | Our team won the soccer game!
+here |  | Please come over here and sit by me.
+hear | 👂 | I can hear the birds singing outside.
+right |  | Raise your right hand if you know the answer.
+write | ✍️ | I can write my name with a pencil.
+ate |  | The hungry dog ate all of his dinner.
+eight |  | A spider has eight legs.
+blue | 🔵 | The sky is bright blue today.
+blew | 🌬️ | The wind blew my hat right off my head.
+by |  | We walked by the duck pond on our way home.
+buy |  | Mom gave me a dollar to buy a snack.
+there |  | Put your shoes over there by the door.
+their |  | The kids put on their coats and mittens.
+flour |  | We need flour and eggs to make pancakes.
+flower | 🌸 | I picked a pink flower for my mom.
+night | 🌙 | The owl hoots all through the night.
+knight |  | The knight wore shiny armor and rode a horse.
+
+## tion-ture
+picture | 🖼️ | I drew a picture of my cat.
+nature | 🌳 | We went on a nature walk in the woods.
+action |  | My favorite movie is full of action.
+station | 🚉 | The train pulled into the station.
+future |  | In the future, I want to be an astronaut.
+vacation | 🏖️ | We are going to the beach on vacation.
+question | ❓ | Raise your hand if you have a question.
+motion |  | The rocking chair moved back and forth in motion.
+creature |  | A tiny creature was hiding under the leaf.
+vision |  | Glasses help my vision when I read.
+mansion |  | The king lived in a giant mansion on the hill.
+addition | ➕ | We practiced addition with apples and oranges.
+attention |  | Please pay attention to the teacher.
+mixture |  | The cake batter is a mixture of flour and sugar.
+direction | 🧭 | The compass shows which direction is north.
+adventure |  | We had a fun adventure exploring the creek.
+collection |  | I have a big collection of seashells.
+television | 📺 | We watched a cartoon on the television.
+confusion |  | There was some confusion about whose turn it was.
+invention |  | The light bulb was an amazing invention.
+furniture |  | We moved the furniture to build a pillow fort.
+celebration |  | We had a big celebration for Grandpa's birthday.
+
+## tricky
+said |  | My teacher said I did a great job.
+once |  | Once upon a time, there lived a little fox.
+could |  | I wish I could fly like a bird.
+should |  | You should brush your teeth before bed.
+again |  | Can we read that book again?
+friend |  | My best friend sits next to me at lunch.
+pretty |  | The garden is pretty in the spring.
+people |  | Lots of people came to watch the parade.
+busy | 🐝 | The bees are busy making honey.
+sure |  | Are you sure you want more broccoli?
+because |  | I wore my coat because it was cold.
+laugh | 😂 | My baby brother makes me laugh every day.
+thought | 💭 | I thought about dinosaurs all day long.
+caught |  | I caught the ball with both hands!
+enough |  | We have enough cookies for everyone.
+answer |  | I know the answer to that riddle.
+ocean |  | Whales live in the big blue ocean.
+island | 🏝️ | We took a boat to a tiny island.
+through |  | The train zoomed through the dark tunnel.
+different |  | Every snowflake is different from the others.
+favorite |  | Purple is my favorite color.
+beautiful |  | The sunset was beautiful and orange.

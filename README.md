@@ -4,6 +4,12 @@ A spelling game for children, played in a browser (made for an iPad or a laptop)
 
 I built it because I could not find anything like it online for kids who have graduated from Reading.com: something that keeps teaching spelling patterns after the first reading program is done. Depending on interest, it may become an iPad game.
 
+<a href="https://youtube.com/shorts/RzYreInii0E"><img src="docs/demo-poster.jpg" width="260" alt="Watch a 35-second demo: the game on an iPad next to the robot"></a>
+
+**[Watch the 35-second demo on YouTube](https://youtube.com/shorts/RzYreInii0E)**: the game on an iPad, with the optional robot reacting.
+
+This is a hobby project to learn robotics and make a fun game for kids. The code, this README and the rest of the repository were written by an AI coding agent (Claude) working with a parent.
+
 | First run | Level map |
 | --- | --- |
 | ![Create a child profile](docs/screenshots/1-create-profile.png) | ![Home and level map](docs/screenshots/2-home-map.png) |
@@ -74,10 +80,12 @@ The game can drive a small robot that acts out words, looks puzzled at a wrong a
 
 On the grown-ups page, **Robot** chooses the type and its address. These choices are saved per device, not per child.
 
-- **Makeblock mTiny.** The one supported robot today. It talks to the HTTP API of the companion project [robot-mtiny-control](https://github.com/mb-dev/robot-mtiny-control). Run that server, then enter its address. The address is called from the browser, so the robot server must be told to allow the game's address, and if the game is served over HTTPS the robot address must be HTTPS too. On one computer: start the robot server with `--allow-origin http://localhost:8000` and enter `http://localhost:8765`. Over Tailscale: give the robot its own tailnet name, start it with `--allow-host` and `--allow-origin-suffix` as its README describes, and enter that name (for example `https://tiny.example.ts.net`).
+- **Makeblock mTiny.** The one supported robot today. You have to buy the robot from [Makeblock](https://www.makeblock.com); nothing of theirs is included here, and this project is not affiliated with them. It talks to the HTTP API of the companion project [robot-mtiny-control](https://github.com/mb-dev/robot-mtiny-control). Run that server, then enter its address. The address is called from the browser, so the robot server must be told to allow the game's address, and if the game is served over HTTPS the robot address must be HTTPS too. On one computer: start the robot server with `--allow-origin http://localhost:8000` and enter `http://localhost:8765`. Over Tailscale: give the robot its own tailnet name, start it with `--allow-host` and `--allow-origin-suffix` as its README describes, and enter that name (for example `https://tiny.example.ts.net`).
 - **Fake mTiny.** Try it without hardware: run `node tools/fake-tiny.mjs` (port 8766) and choose "Fake mTiny". It prints every step the robot would take.
 - **Table or Floor** (mTiny). Table: the robot only turns on the spot. Floor: it may drive up to 100 mm out and back. Every routine ends where it started, facing the same way.
 - **If the robot is missing,** requests fail quietly and are not retried for 30 seconds; the game never waits for it.
+
+**Planned:** an open-source robot built on a micro:bit, so the robot side needs no bought toy. I am working my way up the chain.
 
 To add another robot, implement the `Robot` interface in a new file under `src/robots/` and add one entry to `ROBOT_TYPES` in `src/robots/index.ts`.
 

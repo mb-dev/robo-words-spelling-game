@@ -91,7 +91,24 @@ Nothing in `public/audio/` ships with this repository, and it is ignored by git.
 
 The one exception is letter sounds (the sound a letter makes, played when a letter is tapped on the first few levels). The device voice would say the letter's name ("bee") instead of its sound, which would teach the wrong thing, so without the files those taps are silent.
 
-**Generate Robo's voice yourself (Apple silicon Mac).** `npm run audio` lists every clip the game needs (`tools/manifest.ts` writes `tools/manifest.json`) and records the missing ones with [Kokoro](https://github.com/hexgrad/kokoro) (voice `af_heart`) through [mlx-audio](https://github.com/Blaizzy/mlx-audio) into `public/audio/` (`w/` words, `s/` sentences, `l/` lessons, `r/` Robo lines, `j/` jokes). It uses a Python environment at `~/.cache/kokoro-tts` (it must be a short path, because Kokoro's pronunciation library fails on long ones) and `afconvert` for the AAC files. It only records clips that are missing; to re-record one, delete its `.m4a` first. Then run `npm run build`; the server serves `public/audio/` from `dist/audio/`.
+**Where the sounds came from.** In the author's own copy of the game, none of the audio was recorded by a person:
+
+| Sounds | Source | In this repository? |
+| --- | --- | --- |
+| Words, sentences, lessons, Robo's lines, jokes | Generated on a Mac with the open [Kokoro](https://github.com/hexgrad/kokoro) text-to-speech model (`mlx-community/Kokoro-82M-bf16`, voice `af_heart`) through [mlx-audio](https://github.com/Blaizzy/mlx-audio), by `tools/make_audio.py` | No, but `npm run audio` regenerates all of it |
+| Letter sounds (a to z) | [Phonicademy](https://phonicademy.com/phonemes) phoneme recordings, under their free license | No; their license does not allow passing the files on, so you download them yourself |
+| Chimes and effects | Synthesised in the browser by `src/audio.ts` | Yes, it is code |
+
+**Set up the voice generator (Apple silicon Mac, once).** The tested environment was Python 3.12 with `mlx-audio` 0.6.5, `misaki` 0.9.4, `phonemizer-fork`, `espeakng-loader`, `num2words` and `spacy`:
+
+```sh
+python3.12 -m venv ~/.cache/kokoro-tts/.venv
+~/.cache/kokoro-tts/.venv/bin/pip install mlx-audio "misaki[en]" phonemizer-fork espeakng-loader num2words spacy
+```
+
+Keep it at that short path: Kokoro's pronunciation library fails with a "phontab" error when the install path is long. The first run downloads the model from Hugging Face. `afconvert` (built into macOS) makes the small AAC files.
+
+**Generate Robo's voice yourself.** `npm run audio` lists every clip the game needs (`tools/manifest.ts` writes `tools/manifest.json`) and records the missing ones with [Kokoro](https://github.com/hexgrad/kokoro) (voice `af_heart`) through [mlx-audio](https://github.com/Blaizzy/mlx-audio) into `public/audio/` (`w/` words, `s/` sentences, `l/` lessons, `r/` Robo lines, `j/` jokes). It uses a Python environment at `~/.cache/kokoro-tts` (it must be a short path, because Kokoro's pronunciation library fails on long ones) and `afconvert` for the AAC files. It only records clips that are missing; to re-record one, delete its `.m4a` first. Then run `npm run build`; the server serves `public/audio/` from `dist/audio/`.
 
 **Letter sounds.** The original game used the free letter-sound recordings from Phonicademy. They may not be redistributed, so they are not included here. Get them from [Phonicademy's audio license page](https://phonicademy.com/audio-license), read their terms, and save one file per letter as `public/audio/letters/a.mp3`, `b.mp3`, ... `z.mp3`. Or record or find your own. The grown-ups page shows a Phonicademy credit only when those files are installed.
 

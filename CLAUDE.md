@@ -74,6 +74,14 @@ Together mode takes any two profiles: `Session = {kind: 'together', partner: <id
 
 No audio is shipped. `say(clips)` in `audio.ts` tries `/audio/<path>.m4a` for each clip, and if it is missing speaks `clip.text` with `speechSynthesis`. Every clip the game builds carries text (`wordClip`, `sentenceClip`, `lessonClip`, `line()`, jokes); keep it that way. Letter sounds (`letterSound`) are silent when `public/audio/letters/<a-z>.mp3` is missing, on purpose. Robo lines must not contain names: "your turn" is `LINES.turn`, and the player's name is shown on screen. Letter files are Phonicademy's and must never be added to the repo.
 
+### Where the sounds come from, and regenerating them
+
+- Spoken clips (words `w/`, sentences `s/`, lessons `l/`, Robo lines `r/`, jokes `j/`) are generated, not recorded: Kokoro (`mlx-community/Kokoro-82M-bf16`, voice `af_heart`) through mlx-audio, by `tools/make_audio.py`. `tools/manifest.ts` first writes `tools/manifest.json`, the list of every clip and its text, from the content files; `npm run audio` runs both.
+- The generator needs an Apple silicon Mac and a Python environment at `~/.cache/kokoro-tts/.venv` (set-up commands are in the README under "Recorded voice"). The path must stay short or espeak fails with a "phontab" error. If the environment is missing, tell the person and offer to set it up; do not install it unasked (it downloads a model).
+- It only makes clips that are missing. After adding or changing words: `npm test`, `npm run audio`, `npm run build`. To redo one clip, delete its `.m4a` first, or pass clip paths: `~/.cache/kokoro-tts/.venv/bin/python tools/make_audio.py w/cat s/cat`.
+- Letter sounds are Phonicademy recordings (https://phonicademy.com/phonemes). Their license forbids redistributing the files, so never download them into the repo for someone or commit them; point the person to the README.
+- Sound effects are synthesised in `src/audio.ts`; there are no effect files.
+
 ## Robot plug-in
 
 `src/robots/types.ts` defines `Robot`: `react(word, act, stars)`, `puzzled()`, `faceTurn(side)`, `celebrate(kind, center)`, `status()`. `src/robots/index.ts` has `ROBOT_TYPES` (none, mtiny, fake-tiny) and the `robot` object the game calls; it forwards to the type chosen in `localStorage` (`robot.type`, `robot.address`, `robot.mode`, `robot.sounds`, in `settings.ts`). Defaults: type `none`, empty address. `mtiny.ts` implements the Makeblock mTiny over the HTTP API of https://github.com/mb-dev/robot-mtiny-control (`GET /api/moves?steps=<json>`, `GET /api/status`); `fake-tiny` is the same code pointed at `tools/fake-tiny.mjs` (default `http://localhost:8766`). Rules for any robot: never block the game, swallow every failure, end every routine where it started. To add a robot, write a `Robot`, add an entry to `ROBOT_TYPES`, extend `tests/robots.test.ts`. mTiny routines are tested in `tests/mtiny.test.ts` (distance, rotation, duration limits).

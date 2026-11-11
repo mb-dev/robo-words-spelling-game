@@ -53,7 +53,7 @@ If recorded voice is installed, run `npm run audio` before the build to record t
 
 ## Recorded voice (optional)
 
-Without recordings the browser's speech reads everything, so skip this unless asked. On an Apple silicon Mac with the Kokoro environment at `~/.cache/kokoro-tts` (short path required) and mlx-audio:
+Without recordings the browser's speech reads everything, so skip this unless asked. The voice is generated with Kokoro (voice `af_heart`) through mlx-audio; letter sounds are Phonicademy's and must be fetched by the person (sources and set-up commands: README "Recorded voice", CLAUDE.md "Where the sounds come from"). On an Apple silicon Mac with the Kokoro environment at `~/.cache/kokoro-tts` (short path required) and mlx-audio:
 
 ```sh
 npm run audio       # writes missing clips to public/audio/ (w, s, l, r, j folders); re-run is safe
